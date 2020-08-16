@@ -99,7 +99,7 @@
             this.btnStart.Location = new System.Drawing.Point(290, 153);
             this.btnStart.Name = "btnStart";
             this.btnStart.Size = new System.Drawing.Size(75, 23);
-            this.btnStart.TabIndex = 6;
+            this.btnStart.TabIndex = 7;
             this.btnStart.Text = "Start";
             this.btnStart.UseVisualStyleBackColor = true;
             this.btnStart.Click += new System.EventHandler(this.btnStart_Click);
@@ -176,7 +176,7 @@
             this.btnOpen.Location = new System.Drawing.Point(13, 153);
             this.btnOpen.Name = "btnOpen";
             this.btnOpen.Size = new System.Drawing.Size(148, 23);
-            this.btnOpen.TabIndex = 7;
+            this.btnOpen.TabIndex = 6;
             this.btnOpen.Text = "Open Lobby to Network";
             this.btnOpen.UseVisualStyleBackColor = true;
             this.btnOpen.Click += new System.EventHandler(this.btnOpen_Click);
@@ -187,7 +187,7 @@
             this.btnJoin.Location = new System.Drawing.Point(167, 153);
             this.btnJoin.Name = "btnJoin";
             this.btnJoin.Size = new System.Drawing.Size(80, 23);
-            this.btnJoin.TabIndex = 8;
+            this.btnJoin.TabIndex = 6;
             this.btnJoin.Text = "Join Lobby";
             this.btnJoin.UseVisualStyleBackColor = true;
             this.btnJoin.Click += new System.EventHandler(this.btnJoin_Click);
